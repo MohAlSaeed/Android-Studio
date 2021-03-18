@@ -1,0 +1,4 @@
+com/example/hello/databinding/ActivityMainBinding.java
+ com.example.hello.databinding.ActivityMainBinding
+com/example/hello/BuildConfig.java
+ com.example.hello.BuildConfig

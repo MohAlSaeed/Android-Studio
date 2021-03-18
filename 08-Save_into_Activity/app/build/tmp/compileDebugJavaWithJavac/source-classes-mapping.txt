@@ -1,0 +1,2 @@
+com/example/saveintoactivity/BuildConfig.java
+ com.example.saveintoactivity.BuildConfig

@@ -1,0 +1,2 @@
+com/example/intent_checkbox/BuildConfig.java
+ com.example.intent_checkbox.BuildConfig

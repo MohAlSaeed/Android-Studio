@@ -1,0 +1,2 @@
+com/example/moveback/BuildConfig.java
+ com.example.moveback.BuildConfig

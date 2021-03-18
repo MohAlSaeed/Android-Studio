@@ -1,0 +1,2 @@
+com/example/text_field/BuildConfig.java
+ com.example.text_field.BuildConfig

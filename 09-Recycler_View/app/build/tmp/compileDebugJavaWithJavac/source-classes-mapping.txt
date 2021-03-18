@@ -1,0 +1,2 @@
+com/example/recyclerview/BuildConfig.java
+ com.example.recyclerview.BuildConfig

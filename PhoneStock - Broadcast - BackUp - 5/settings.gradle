@@ -1,4 +1,0 @@
-include ':App2'
-include ':BroadCast'
-include ':app'
-rootProject.name = "Phone Stock"

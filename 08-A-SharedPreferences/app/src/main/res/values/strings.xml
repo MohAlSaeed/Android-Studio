@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="change">CHANGE</string>
+    <string name="hello_android_dev">HELLO ANDROID DEV!</string>
+    <string name="save">SAVE</string>
+    <string name="set_text_size">Set text size</string>
+</resources>

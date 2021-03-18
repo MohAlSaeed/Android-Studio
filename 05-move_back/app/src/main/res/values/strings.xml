@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Move Back</string>
+    <string name="click_me">Click Me!</string>
+    <string name="second_activity">Second Activity</string>
+</resources>

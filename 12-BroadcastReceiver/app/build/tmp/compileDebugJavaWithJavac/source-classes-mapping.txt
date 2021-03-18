@@ -1,0 +1,22 @@
+com/example/broadcastreceiver/BuildConfig.java
+ com.example.broadcastreceiver.BuildConfig
+com/example/broadcastreceiver/PhoneDao_Impl.java
+ com.example.broadcastreceiver.PhoneDao_Impl
+ com.example.broadcastreceiver.PhoneDao_Impl$1
+ com.example.broadcastreceiver.PhoneDao_Impl$2
+ com.example.broadcastreceiver.PhoneDao_Impl$3
+ com.example.broadcastreceiver.PhoneDao_Impl$4
+ com.example.broadcastreceiver.PhoneDao_Impl$5
+ com.example.broadcastreceiver.PhoneDao_Impl$6
+ com.example.broadcastreceiver.PhoneDao_Impl$7
+ com.example.broadcastreceiver.PhoneDao_Impl$8
+ com.example.broadcastreceiver.PhoneDao_Impl$9
+com/example/broadcastreceiver/PhoneDB2_Impl.java
+ com.example.broadcastreceiver.PhoneDB2_Impl
+ com.example.broadcastreceiver.PhoneDB2_Impl$1
+com/example/broadcastreceiver/databinding/ListElementBinding.java
+ com.example.broadcastreceiver.databinding.ListElementBinding
+com/example/broadcastreceiver/databinding/ActivityMainBinding.java
+ com.example.broadcastreceiver.databinding.ActivityMainBinding
+com/example/broadcastreceiver/databinding/ActivityStockBinding.java
+ com.example.broadcastreceiver.databinding.ActivityStockBinding

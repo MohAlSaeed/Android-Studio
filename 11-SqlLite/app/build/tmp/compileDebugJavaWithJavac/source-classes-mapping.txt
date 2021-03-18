@@ -1,0 +1,15 @@
+com/example/sqllite/PhoneDB_Impl.java
+ com.example.sqllite.PhoneDB_Impl
+ com.example.sqllite.PhoneDB_Impl$1
+com/example/sqllite/databinding/ListElementBinding.java
+ com.example.sqllite.databinding.ListElementBinding
+com/example/sqllite/Phonedao_Impl.java
+ com.example.sqllite.Phonedao_Impl
+ com.example.sqllite.Phonedao_Impl$1
+ com.example.sqllite.Phonedao_Impl$2
+ com.example.sqllite.Phonedao_Impl$3
+ com.example.sqllite.Phonedao_Impl$4
+com/example/sqllite/databinding/ActivityMainBinding.java
+ com.example.sqllite.databinding.ActivityMainBinding
+com/example/sqllite/BuildConfig.java
+ com.example.sqllite.BuildConfig

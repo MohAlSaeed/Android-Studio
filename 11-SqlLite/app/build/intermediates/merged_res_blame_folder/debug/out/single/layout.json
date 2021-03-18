@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\MyAndroid\\beginner\\11-SqlLite\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_element.xml",
+        "source": "D:\\MyAndroid\\beginner\\11-SqlLite\\app\\src\\main\\res\\layout\\list_element.xml"
+    },
+    {
+        "merged": "D:\\MyAndroid\\beginner\\11-SqlLite\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\MyAndroid\\beginner\\11-SqlLite\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
